@@ -31,13 +31,12 @@ public class DataReader {
                     return super.visitFile(file, attrs);
                 }
             });
+
         } catch (IOException e) {
             e.printStackTrace();
         }
 
         hashMap.entrySet().stream().forEach(e-> dataList.add(new Data(e.getKey(),e.getValue())));
-
-
     }
 
 

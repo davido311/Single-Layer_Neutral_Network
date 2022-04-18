@@ -12,7 +12,7 @@ public class Data {
     public Data(String language, String text) {
         this.language = language;
         this.text = text;
-        this.attributes= getAttributes(text);
+        this.attributes= countAttributes();
     }
 
     public String getLanguage() {
@@ -31,7 +31,7 @@ public class Data {
         this.text = text;
     }
 
-    public double[] getAttributes(String text) {
+    public double[] countAttributes() {
         double[] attr = new double[26];
 
         int k=0;
@@ -41,6 +41,10 @@ public class Data {
             attr[k++] = count;
         }
        return attr;
+    }
+
+    public double[] getAttributes(){
+        return this.attributes;
     }
 
     public void normalizeVector(){
@@ -57,7 +61,7 @@ public class Data {
 
 
 
-   /* public String toString(){
+   public String toString(){
         return this.language +"------------------------------------" +this.text;
-    }*/
+    }
 }
