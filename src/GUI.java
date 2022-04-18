@@ -9,7 +9,9 @@ public class GUI extends JFrame {
     private JTextArea textArea;
 
     private JPanel mainPanel;
+    private JPanel answerPanel;
     private JLabel answerLabel;
+    private JButton clearButton;
     private List<Classifier> perceptronList;
 
     public GUI(List<Classifier> perceptronList) {
@@ -24,8 +26,13 @@ public class GUI extends JFrame {
         checkButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-
                 answerLabel.setText(checkLanguage());
+            }
+        });
+        clearButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                answerLabel.setText("Unknown");
                 textArea.setText("");
             }
         });

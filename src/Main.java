@@ -1,8 +1,5 @@
 import javax.swing.*;
-import java.io.IOException;
-import java.nio.charset.Charset;
-import java.nio.file.Files;
-import java.nio.file.Path;
+
 import java.util.*;
 
 public class Main {
@@ -18,7 +15,6 @@ public class Main {
 
 
         for (int i = 0; i < 1000; i++) {
-            Collections.shuffle(trainList);
             for (Data data : trainList) {
                 for (Classifier classifier : perceptronList) {
                     classifier.learn(data);

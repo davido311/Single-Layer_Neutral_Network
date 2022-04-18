@@ -1,0 +1,193 @@
+Język polski, polszczyzna – język lechicki z grupy zachodniosłowiańskiej (do której należą również czeski, kaszubski, słowacki i języki łużyckie), stanowiącej część rodziny indoeuropejskiej. Jest językiem urzędowym w Polsce oraz należy do oficjalnych języków Unii Europejskiej. Ocenia się, że jest mową ojczystą ok. 44 mln ludzi na świecie[1] (w literaturze naukowej można spotkać szacunki od 39[2][3] do 48 mln[4]). Językiem tym posługują się przede wszystkim mieszkańcy Polski oraz przedstawiciele tak zwanej Polonii, czyli ludność polska zamieszkała za granicą.
+
+Z punktu widzenia typologii lingwistycznej jest językiem fleksyjnym[6], operującym rozbudowaną fleksją w zakresie morfologii[7]. Akcent w języku polskim pada zwykle na drugą sylabę od końca, a w zdaniu przeważa szyk SVO (podmiot orzeczenie dopełnienie)[8]. Język polski ma obecnie największą liczbę użytkowników wśród przedstawicieli słowiańszczyzny zachodniej i jest drugim językiem słowiańskim pod względem powszechności używania[9][10][11]. W dzisiejszych czasach cechuje się słabo zaznaczonym i zanikającym zróżnicowaniem gwarowym, a także dominacją w praktyce komunikacyjnej języka standardowego[12]. Jego regulacją zajmuje się Rada Języka Polskiego, pełniąca funkcję doradczą[13]. Do zapisu języka polskiego służy alfabet łaciński, wzbogacony o dodatkowe znaki diakrytyczne.
+
+Wywodzi się z języka praindoeuropejskiego za pośrednictwem prasłowiańskiego. Spośród głównych języków słowiańskich wykazuje najbliższe pokrewieństwo ze słowackim[11] i czeskim[12], ale dzieli również wiele cech z językiem ukraińskim ze względu na długotrwałe kontakty obu języków[12][14]. Na język polski duży wpływ wywarły także języki germańskie, zwłaszcza niemiecki i jidisz, oraz italskie, takie jak łacina i francuski, które rzutowały na polską leksykę i gramatykę[15][16][17]. Historycznie polszczyzna była istotną lingua franca w regionie Europy Środkowo-Wschodniej, o znaczeniu akademickim i dyplomatycznym[18][19]. Współcześnie przeważa na terenie Polski, kraju stosunkowo jednolitego pod względem językowym[8].
+
+
+Spis treści
+1	Klasyfikacja
+2	Alfabet
+3	Historia
+3.1	Zarys fonetyki historycznej
+3.2	Wpływy języków obcych
+3.3	Zasięg oddziaływania
+4	Odmiany
+5	Za granicą
+6	Fonetyka
+7	Gramatyka
+8	Zmiany
+8.1	Zanik różnic językowych
+8.2	Zmiany gramatyczne
+8.3	Zmiany leksykalne
+8.4	Zmiany fonologiczne
+9	Użycie
+10	Ochrona
+11	Zobacz też
+12	Przypisy
+13	Bibliografia
+14	Linki zewnętrzne
+Klasyfikacja
+Język polski należy do gałęzi zachodniej w ramach języków słowiańskich[20], zaliczanych do indoeuropejskiej rodziny językowej. Jest blisko spokrewniony z językami słowackim i czeskim[11][12], z którymi tworzy zachodniosłowiańskie kontinuum dialektalne[21]. Wspomniane byty językowe stanowią języki typu Ausbau, tj. ich rozgraniczenie opiera się nie tyle na względach lingwistycznych, ile na czynnikach socjopolitycznych i kulturalnych. Jako że etnolekty te dysponują odrębnymi standardami językowymi i wypracowanymi tradycjami piśmienniczymi oraz pełnią funkcję języków urzędowych w niepodległych państwach, przyznaje się im miano niezależnych, autonomicznych języków. Fakt istnienia kontinuum dialektalnego uniemożliwia jednak wyznaczenie ścisłych granic międzyjęzykowych na gruncie lingwistyki. Rozróżnienie między dialektami polskimi a dialektami czesko-słowackimi opiera się na granicach narodowych, odpowiadających zasięgowi standaryzacji językowej[22].
+
+Współczesny język polski wyróżnia się wysokim stopniem homogeniczności, przede wszystkim ze względu na wpływ masowej edukacji i komunikacji oraz masowych migracji ludności[12]. Szeroka ekspansja języka standardowego (ogólnopolskiego), upowszechnionego na obszarze całej Polski, doprowadziła do znacznego zatarcia istniejących różnic dialektalnych[12], które zachowały się w pewnej mierze na obszarach wiejskich[23]. Ponadto na gruncie językoznawstwa polskiego są zadomowione tendencje normatywistyczne, nastawione na niwelację różnic językowych[24]. Etnolekt kaszubski, używany w polskim obszarze językowym, jest zaliczany do dialektów języka polskiego lub uważany za odrębny język, w zależności od przyjętych koncepcji klasyfikacyjnych[25][26]. Z perspektywy językoznawczej wykazuje odrębność od języka polskiego, jednak uwarunkowania socjolingwistyczne sprawiają, że bywa postrzegany jako dialekt polszczyzny – ta bowiem, jako język wypracowany społecznie, dominuje w rozmaitych domenach komunikacyjnych[27].
+
+Alfabet
+
+Alfabet polski (litery szare występują tylko w słowach obcego pochodzenia)
+ Osobny artykuł: Alfabet polski.
+Alfabet polski jest oparty na piśmie łacińskim i składa się obecnie z 35 liter: Aa, Ąą, Bb, Cc, Ćć, Dd, Ee, Ęę, Ff, Gg, Hh, Ii, Jj, Kk, Ll, Łł, Mm, Nn, Ńń, Oo, Óó, Pp, Qq, Rr, Ss, Śś, Tt, Uu, Vv, Ww, Xx, Yy, Zz, Źź, Żż, przy czym litery Qq, Vv i Xx występują tylko w słowach obcego pochodzenia.
+
+Język polski może być także zapisywany polską cyrylicą, którą próbowano wprowadzić w latach 1840–1865[28]. Obecnie posługują się nią mieszkańcy wsi Wierszyna w Rosji[29]. Alfabet cyryliczny składał się z liter: Аа, А̨а̨, Бб, Вв, Гг, Дд, Ее, Е̨е̨, Ёё, Ё́ё́(?), Жж, Зз, Ии, Йй, Кк, Лл, Мм, Нн, Оо, О́о́, Пп, Рр, Р̌р̌ Сс, Тт, Уу, Фф, Хх, Цц, Чч, Шш, Щщ, Ъъ, Ыы, Ьь, Ээ, Э̨э̨, Юю, Яя, Я̨я̨.
+
+ Osobny artykuł: Polska cyrylica.
+Język polski może być także zapisywany alfabetem arabskim, co było czynione na Polesiu wśród Tatarów[30]. Alfabet arabski dostosowany do języka polskiego jest oparty na białoruskim alfabecie arabskim.
+
+ Osobny artykuł: Alfabet arabski dostosowany do języka polskiego.
+Historia
+Skan fragmentu strony księgi z XIII wieku. Wśród kilku linii tekstu znajduje się zdanie w języku polskim
+Najstarsze zdanie zapisane w 1270 roku w języku polskim w Księdze henrykowskiej. Brzmi ono „Day ut ia pobrusa, a ti poziwai”, co w transkrypcji zostało zapisane jako „Daj, ać ja pobruszę, a ty poczywaj”
+
+Najstarszy druk w języku polskim Statuta Synodalia Episcoporum Wratislaviensium wydany w 1475 roku we Wrocławiu przez Kaspra Elyana
+
+Strona tytułowa dzieła „Ortographia” autorstwa Stanisława Zaborowskiego, wydanie z 1518
+
+„Nauka krótka ku czytaniu pisma polskiego” Hieronima Wietora z 1539 roku, jeden z pierwszych polskich elementarzy
+
+Pierwsze zachowane polskie czasopismo „Merkuriusz Polski Ordynaryjny” nr 35 z 1661 roku
+ Osobne artykuły: Historia języka polskiego i Historia druku w Polsce.
+Za najstarsze w języku polskim uchodzą dwa zdania: Day, ut ia pobrusa, a ti poziwai, zapisane w 1270 na karcie 24 tzw. Księgi henrykowskiej[31], i Byegaycze, byegaycze! (...) Gorze szą nam stalo!, zapisane w latach 1455–1480 w Rocznikach, czyli kronikach sławnego Królestwa Polskiego, spisanych przez Jana Długosza[32].
+
+W 1285 na zjeździe w Łęczycy postanowiono o używaniu języka polskiego obok łaciny w szkołach katedralnych i klasztornych[33].
+
+Liczne zdania w języku polskim zachowały się w rękopiśmiennych księgach sądowych notujących treść procesów, zeznań oraz rot sądowych. Zapisane one zostały w XIV i XV wieku, a najwcześniejsze z nich notowane są od 1386 roku w wielkopolskich księgach sądowych (tzw. roty poznańskie)[34].
+
+ Osobny artykuł: Polskie średniowieczne roty sądowe.
+Najstarszy druk w języku polskim ukazał się w 1475 we Wrocławiu. Były to trzy modlitwy katolickie „Ojcze nasz”, „Zdrowaś Maryjo” oraz „Wierzę w Boga” opublikowane w tzw. „Statutach Elyana” (łac. Statuta synodalia episcoporum Wratislaviensium) w Drukarni Świętokrzyskiej – pierwszej wrocławskiej oficynie wydawniczej założonej przez Kaspra Elyana[35][36]. Pierwsze polskojęzyczne elementarze do nauki języka polskiego pojawiają się wraz z rozwojem druku już w wieku XVI.
+
+ Osobny artykuł: Polskie elementarze.
+Pod koniec średniowiecza pojawiają się również pierwsze słowniki języka polskiego. Początkowo rękopiśmienne sporządzane przez skrybów pracujących w skryptoriach, a później także drukowane. Pierwszymi słownikami były słowniki wielojęzyczne, głównie polsko-łacińskie. Pierwszym całkowicie poświęconym słownikiem języka polskiego był słownik Samuela Bogumiła Lindego wydany po raz pierwszy w 1810 roku w Warszawie.
+
+ Osobny artykuł: Słownik języka polskiego.
+Pierwszą Gramatykę języka polskiego Piotra Statoriusaa-Stoińskiego wydano w roku 1568 przed Compendium linguae polonicae Mikołaja Volckmara w 1594, 1613 i Jeremiasza Rotera Schluessel zur Polnischen vnd Teutschen Sprach w 1616[37], a po polsku w 1778 przez Onufryego Kopczyńskiego.
+
+Od 1913 wydawany jest „Język Polski”, czasopismo naukowe promujące wiedzę o języku polskim i językoznawstwie ogólnym, zaś od 1901 wydawany jest „Poradnik Językowy”, wydawnictwo normatywne poruszające problematykę kultury języka. Pierwszym polskim słownikiem poprawnościowym był Słownik ortoepiczny (1937) Stanisława Szobera (od 1948 jako Słownik poprawnej polszczyzny)[38].
+
+Polszczyzna była jednym z języków urzędowych w Białoruskiej Socjalistycznej Republiki Radzieckiej w latach 1927–1938[39][40]. Miało to wyraz w godle Białoruskiej SRR, w którym w latach 1927–1938 zawołanie Proletariusze wszystkich krajów, łączcie się! umieszczono także w języku polskim.
+
+Język polski miał również status urzędowego w polskich rejonach narodowych w Związku Radzieckim, istniejących w latach 1925–1937.
+
+
+Godło Białoruskiej SRR z zawołaniem w języku polskim
+W 1931 roku Bruno Jasieński i Tomasz Dąbal proponowali zmiany, polegające na uproszczeniu pisowni i usunięciu liter „ą”, „ę”, „ó”, dwuznaków „ch”, „rz”, „sz” i „cz”, zastąpionych odpowiednio „om” albo „on”, „em” alb „en” (w zależności od wyrazu), „u”, „h”, „ż”, „s”, „c”. Miało to ułatwić naukę języka polskiego. Zmiany te opracowano w 1933 roku i planowano wprowadzić do ortografii polskiej w polskich rejonach narodowych im. Feliksa Dzierżyńskiego i im. Juliana Marchlewskiego[41][42][43].
+
+Zarys fonetyki historycznej
+Język polski wywodzi się z języka praindoeuropejskiego za pośrednictwem języka prasłowiańskiego. Ślady jego dziejów można odnaleźć w obocznościach.
+
+Do najważniejszych wczesnych zmian należy palatalizacja indoeuropejska. Dawne miękkie k, kh, g, gh przeszły w językach satemowych, takich jak języki słowiańskie, zwykle w s i z (ale np. litewskie š i ž), zaś w językach kentumowych, na przykład w łacinie i językach germańskich, w k i g. W języku prasłowiańskim wszystkie zgłoski zamknięte przeszły w otwarte. Pociągnęło to za sobą powstanie samogłosek nosowych i zróżnicowanie długości samogłosek. Ukształtowała się też opozycja spółgłosek miękkich i twardych.
+
+ Zobacz więcej w artykule język prasłowiański, w sekcji powstanie i rozwój.
+W języku polskim opozycja spółgłosek miękkich i twardych stała się cechą istotną. Zgłoskotwórcze r i l przeszły w pary samogłoska + r lub odpowiednio l. Nastąpił też zanik iloczasu, a wiele spółgłosek miękkich zostało utwardzonych, np. miękkie r (zapis: r', np. r’eka – rzeka) przeszło w ż (zapis: rz). Wiele spółgłosek miękkich traci miękkość w wygłosie (np. końcowe miękkie w w nazwach typu Wrocław, w przypadkach zależnych nadal jest miękkie – we Wrocławiu). Pierwszy traktat o ortografii polskiej napisał ok. 1455 polski językoznawca i gramatyk Jakub Parkoszowic, który wzorem Jana Husa postawił sobie zadanie przystosowania alfabetu łacińskiego do oznaczania w piśmie głosek polskiego języka[44][45].
+
+Wpływy języków obcych
+Dialekt ogólnopolski formował się na gruncie gwar używanych w Wielkopolsce i Małopolsce, później na fundamencie gwar mazowieckich i kresowych[46]. Na kształt polszczyzny wpływały również inne języki. Najważniejszymi z nich były:
+
+łaciński[47][48],
+grecki (głównie za pośrednictwem łaciny),
+czeski[47], → czechizmy/bohemizmy,
+ruski[49], a potem białoruski i ukraiński (głównie za pośrednictwem gwar kresowych),
+niemiecki[50][51][52], → germanizmy,
+turecki → turcyzmy,
+francuski[53],
+włoski[54],
+rosyjski → rusycyzmy,
+węgierski[55] → hungaryzmy,
+jidysz → jidyszyzmy,
+angielski → anglicyzmy.
+Zasięg oddziaływania
+
+Onufry Kopczyński, Układ Grammatyki dla szkół narodowych (1785)
+
+Język polski jako ojczysty, Drugi Powszechny Spis Ludności (1931)
+W 1661 ukazywał się tygodnik „Merkuriusz Polski Ordynaryjny”, pierwsze zachowane czasopismo wydawane w języku polskim; po jego upadku przez kilka dziesięcioleci nie wydawano polskich czasopism. Początek nieprzerwanego rozwoju czasopiśmiennictwa polskiego przypada na drugą ćwierć XVIII w. W latach 1718–1720 ukazywał się tygodnik „Poczta Królewiecka”[56], od 1729 „Nowiny Polskie” (następnie jako „Kurier Polski” do 1760), w latach 1765–1785 ukazywał się dziennik „Monitor”, najważniejsze czasopismo doby Oświecenia w Polsce[57][58], i in. Czasopiśmiennictwo naukowe w języku polskim zapoczątkował wydawany w latach 1758–1761 i 1766–1767 miesięcznik „Nowe Wiadomości Ekonomiczne i Uczone”[56][58], zaś czasopiśmiennictwo literackie wydawany w latach 1770–1777 tygodnik „Zabawy Przyjemne i Pożyteczne”[58].
+
+Dzięki reformacji język polski wprowadzony został szeroko do literatury. Związane to było z chęcią dotarcia do jak największej liczby osób, stąd pierwsze tłumaczenia przez protestantów Biblii oraz publikowanie literatury religijnej, w tym także polemicznej względem innych wyznań[59].
+
+W dobie reformacji główną rolę w rozwoju książki polskiej odegrały Prusy Książęce. W latach 1543–1552 w Królewcu i w Ełku wydano więcej książek w języku polskim niż w całej Rzeczypospolitej. W 1587 roku założono w Ełku Szkołę Książęcą dla całej prowincji, gdzie uczono m.in. literackiej polszczyzny[60].
+
+W 1696 język polski stał się językiem urzędowym w Wielkim Księstwie Litewskim[61], wtedy też ostatecznie ustaliła się supremacja języka polskiego w życiu społecznym, kulturalnym i politycznym Litwy[61]. W prowincjach Korony Królestwa Polskiego do końca czasów saskich (1763) językiem urzędowym pozostawała łacina[61]. Stał się także językiem szybko przyswajających język polski niemieckich rodów szlacheckich w Inflantach Polskich.
+
+Od połowy XVI wieku do początku wieku XVIII polszczyzna była językiem dworskim w Rosji[potrzebny przypis], i tą drogą przeniknęło do języka rosyjskiego szereg wyrazów pochodzenia zachodnioeuropejskiego, przyswojonych wcześniej przez język polski, oraz wyrazów rdzennie polskich. Pod koniec XVII w. język polski był popularny i modny także wśród wyższych warstw Moskwy[62], a jego znajomość była miernikiem wykształcenia i kultury[63]. Niezmiernie popularna jest w tym okresie literatura polska zarówno w oryginale, jak i w transkrypcji na cyrylicę oraz tłumaczeniach na rosyjski. W okresie od II poł. XVII do początku XVIII w. przekłady literatury polskiej dominują nad przekładami z innych języków, a w przypadku poezji obcej aż do pocz. XVIII w. mamy do czynienia wyłącznie z utworami polskimi i łacińskimi[63]. Początek wpływów języka polskiego najpierw na język ruski, później na rosyjski, datowany jest na XIII w. Słabną one w połowie XVIII wieku, choć na polonizmy możemy natknąć się również w XIX i XX w. (np. frajer)[64].
+
+W XVII wieku po polsku mówiono także na dworach Hospodarstwa Mołdawskiego (tutaj również posługiwała się nim arystokracja[65]) i Wołoszczyzny[66]. W tym pierwszym kraju czyniono starania, by uczynić z języka polskiego język literacki (np. historiograf i poeta Miron Costin pisał po polsku)[65]. Również w tym samym wieku język polski był powszechny na Ukrainie, zarówno w życiu politycznym, jak i piśmiennictwie. Ryszard Łużny uważa, że polszczyzna spełniała rolę języka literackiego dla mieszkańców tego regionu Rzeczypospolitej[67].
+
+Język polski wywarł wpływ na takie języki jak ukraiński, białoruski, litewski, rosyjski, jidysz, hebrajski, czeski, rumuński[68].
+
+Odmiany
+
+Dialekty polskie wg S. Urbańczyka (zmodyfikowane)[69]
+
+Dialekty polskie wg Karola Dejny
+
+Języki i dialekty Europy Środkowo-Wschodniej
+
+Rozmieszczenie osób mówiących językiem polskim w Europie. Na czerwono: Polska, gdzie polski jest językiem urzędowym, na ciemnoróżowo: regiony, gdzie istnieje znacząca mniejszość mówiąca po polsku, na jasnoróżowo: Unia Europejska, gdzie polski jest jednym z języków urzędowych, niebieskie punkty wskazują większe skupiska osób mówiących po polsku
+ Osobny artykuł: Dialekty języka polskiego.
+Wyróżnia się następujące odmiany etnicznej polszczyzny:
+
+język standardowy (język ogólny / literacki sensu largo[70]), ukształtowany na bazie wielu dialektów[71];
+dialekty obiegowe: ludowe (wiejskie) oraz miejskie (np. gwara lwowska, gwara poznańska, gwara warszawska).
+Polszczyzna standardowa pełni funkcję dialektu ogólnopolskiego. Jest szerzona przez oświatę i środki masowego przekazu, natomiast dialekty lokalne mają ograniczony zasięg i podlegają silnemu zanikowi. Większość przedstawicieli pokolenia młodego i średniego posługuje się mową zbliżoną do języka standardowego, gwary tradycyjne zaś zachowują się wśród najstarszych mieszkańców wsi[23]. Na znaczeniu zyskuje wariacyjność o podłożu socjalnym[23].
+
+Polski język standardowy jest wewnętrznie zróżnicowany. Występuje w postaci pisanej (literackiej sensu stricto[70]) i mówionej (por. styl potoczny)[71]. W obrębie samego języka standardowego mieszczą się także różne warianty stylistyczne (styl retoryczny, styl urzędowy, styl publicystyczny itp.).
+
+Za ogólnopolski wzorzec wymowy języka standardowego przyjmuje się wymowę warszawską. Inną, również normatywną, formą wymowy jest ograniczona terytorialnie wymowa krakowsko-poznańska.
+
+Podstawowe dialekty terytorialne języka polskiego to (według stopnia pokrewieństwa):
+
+dialekty główne (zachodnie i południowe):
+wielkopolski (zobacz też: gwara poznańska);
+małopolski (zobacz też: gwara krakowska, gwara sądecka, gwary góralskie – w tym najbardziej znane: gwara podhalańska, gwara żywiecka);
+śląski;
+dialekty północne:
+mazowiecki (zobacz też: gwara białostocka, gwara łowicka);
+chełmińsko-kociewsko-warmiński[72];
+dialekty kresowe:
+północnokresowy;
+południowokresowy.
+Poza tymi podstawowymi dialektami istnieją także dialekty mieszane, szczególnie na zachodzie Polski. Wyróżnia się również odmienne leksykalnie mowy środowiskowe (np. slang młodzieżowy), oparte zasadniczo na gruncie języka standardowego, ale zawierające w pewnych przypadkach ludowe gwaryzmy[71].
+
+Encyklopedia Popularna PWN[73] i inne źródła[74] wymieniają pięć głównych dialektów: wielkopolski, małopolski, śląski, mazowiecki, kaszubski[75].
+
+Za granicą
+Coraz więcej osób uczy się języka polskiego jako obcego. Ich liczbę szacuje się na 10 000 osób na całym świecie[76], z czego ok. jedna trzecia studiuje język polski na uczelniach i w szkołach językowych w Polsce. Od 2004 roku istnieje również możliwość zdawania egzaminu z języka polskiego jako obcego na 3 poziomach: podstawowym (poziom B1), średnio zaawansowanym (poziom B2) oraz na poziomie zaawansowanym (poziom C2). Egzaminy te przygotowuje Państwowa Komisja Poświadczania Znajomości Języka Polskiego jako Obcego[77].
+
+Liczni są również rodzimi użytkownicy języka polskiego, którzy na stałe mieszkają w innych państwach. Są to członkowie polskiej mniejszości narodowej albo polscy wychodźcy lub ich potomkowie (Polonia).
+
+Jako język polskiej mniejszości narodowej polski jest używany przede wszystkim w krajach sąsiednich: na Ukrainie, Białorusi, Litwie, Słowacji i w Czechach.
+
+Największe grupy polskojęzycznej ludności, które znalazły się na stałe poza granicami kraju w wyniku wyjazdu z państwa, znajdują się w zachodniej Europie (Niemcy, Francja, Wielka Brytania), w Ameryce (Stany Zjednoczone, Kanada, Brazylia, Argentyna, Meksyk), w Australii oraz w Izraelu.
+
+Ze względu na duże rozproszenie ludności polskojęzycznej po całym świecie i brak teraźniejszych badań nad stopniem utrzymywania języka polskiego wśród Polaków za granicą, bardzo trudno ustalić liczbę osób polskojęzycznych na stałe zamieszkałych poza granicami Polski. Szacunki podawane w rzetelnych książkach mieszczą się w szerokim przedziale od 3,5 do 10 milionów[78]. Skutkiem tych rozbieżności są różne dane o ogólnej liczbie rodzimych użytkowników języka polskiego.
+
+Fonetyka
+ Osobny artykuł: Fonetyka języka polskiego.
+Gramatyka
+ Osobny artykuł: Gramatyka języka polskiego.
+Zmiany
+Zanik różnic językowych
+W związku z przesiedleniami ludności po drugiej wojnie światowej, rozwojem miast, wpływami kultury masowej (telewizja, prasa) oraz powszechną oświatą prowadzoną w języku ogólnym polszczyzna coraz bardziej się ujednolica. Cechy gwarowe są o wiele słabiej widoczne u młodszych użytkowników języka. Nie dotyczy to wszystkich dialektów lokalnych – np. gwarom góralskim i śląszczyźnie jak na razie wyginięcie nie grozi; mimo to większość Polaków posługuje się dziś mową zbliżoną do polszczyzny standardowej. We współczesnym języku polskim uwidaczniają się różnice socjalne[23].
+
+Zmiany gramatyczne
+Prawdopodobnie jedną z bardziej rzucających się w oczy zmian zachodzących na gruncie polskiego języka ogólnego jest wypieranie rodzaju męskorzeczowego przez męskożywotny. Wiele słów, które w polszczyźnie standardowej były dotychczas traktowane jako jednoznacznie nieżywotne, zaczyna przyjmować odmianę typową dla słów żywotnych, zwłaszcza w stylu swobodnym[79]. Objawia się to tym, że biernik jest równy dopełniaczowi, nie zaś jak dotychczas mianownikowi. I tak wyrażenie „dostać e-maila/SMS-a” jest w języku mówionym bardziej powszechne od „dostać e-mail/SMS”. Formy tego rodzaju uchodzą jednak za mniej staranne i nie cieszą się pełną aprobatą w języku standardowym (uważane są jedynie jako potoczne[80]), natomiast jako formy wzorcowe uznaje się warianty tradycyjne[80]. Część form (np. „wyrwałem zęba”) całkowicie występuje poza przyjętą normę języka standardowego[80].
+
+Zmiany leksykalne
+Następuje zapożyczanie dużej liczby anglicyzmów, przede wszystkim w wyniku wpływu globalizacji i środków masowego przekazu[81], a jednocześnie zanika wiele dawnych zapożyczeń, głównie francuskich, jidysz i rosyjskich.
+
+Ciekawym zjawiskiem jest zmiana wymowy niektórych francuskich zapożyczeń z francuskiej na angielską, np. image wymawia się współcześnie raczej imidż niż imaż. Podobnie, pod wpływem tłumaczeń w mediach z języka angielskiego, coraz częściej nazwę państwa Rwanda wymawia się Ruanda.
+
+Zmiany fonologiczne
+W związku z zapożyczeniami słów z języków o odmiennej fonologii rozpowszechniają się rzadko dotychczas spotykane połączenia głosek, np. po głoskach zębowych t, d, s, z, r pojawia się i (didżej, tir, ring), także w tradycyjnych wyrazach y jest czasem zastępowane przez i, np. dawna nazwa kolorowego papieru technicznego Brystol jest dziś często zapisywana Bristol. Pojawiają się też połączenia ky, gy, ly (ankylozaur, poligynia, glyptodon).
+
+Użycie
+W dużym przybliżeniu przeciętny Polak czynnie zna (czyli używa w wypowiedziach) nie więcej niż kilkanaście tysięcy słów, natomiast biernie (rozumie, ale nie używa) – ok. 30 tysięcy słów. Wyjątkami są osoby, które mogą biernie znać nawet 100 tysięcy słów[82]. Jednak badania filologów z Uniwersytetu w Białymstoku wykazują, że wystarczy znajomość 1200 najczęściej używanych słów w języku polskim, by móc zacząć się nim posługiwać[83].
