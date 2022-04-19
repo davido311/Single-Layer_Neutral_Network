@@ -2,6 +2,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.util.Comparator;
 import java.util.List;
 
 public class GUI extends JFrame {
@@ -41,15 +42,17 @@ public class GUI extends JFrame {
 
     public String checkLanguage() {
         Data data = new Data("Unknown", textArea.getText());
-        double type = -1;
+       // double type = -1;
         String language = "";
         data.normalizeVector();
-        for (Classifier classifier : perceptronList) {
+       /* for (Classifier classifier : perceptronList) {
+            System.out.println(classifier.getY(data));
             if (classifier.getY(data) > type) {
-                type = classifier.getY(data);
+               // type = classifier.getY(data);
                 language = classifier.getLanguage();
             }
-        }
+        }*/
+        language = perceptronList.stream().max(Comparator.comparingDouble(p -> p.getY(data))).get().getLanguage();
         return language;
     }
 
